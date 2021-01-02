@@ -3,9 +3,9 @@
   <firmware min="270" max="275" />
 
  
-  <set checksums="http://www.max.eq-3.de/maxupdate/lib/digest.txt">
-    <ext>http://www.max.eq-3.de/maxupdate/lib/MaxEssentialsBackend-1.4.1.jar</ext>
-    <ext>http://www.max.eq-3.de/maxupdate/lib/MaxLocalBackend-1.4.1.jar</ext>
+  <set checksums="https://raw.githubusercontent.com/BorysekOndrej/maxupdate-libraries/main/maxupdate/digest.txt">
+    <ext>https://raw.githubusercontent.com/BorysekOndrej/maxupdate-libraries/main/maxupdate/lib/MaxEssentialsBackend-1.4.1.jar</ext>
+    <ext>https://raw.githubusercontent.com/BorysekOndrej/maxupdate-libraries/main/maxupdate/lib/MaxLocalBackend-1.4.1.jar</ext>
   </set>
  
 </linklist>
