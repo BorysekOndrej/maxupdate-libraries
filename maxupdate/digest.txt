@@ -55,3 +55,5 @@ tools/alive.bat = 5d60407825b310722e0312409c0e9b83
 tools/MaxControllerApplication.jar = 829a85073de91afcfe5f34b7890e11ab
 getdown.jar = 2a951967469816b7c05bdae7669095c2
 MaxLocalApp.jar = b2508ce6c57a9c53558d7d35f6347746
+lib/MaxEssentialsBackend-1.4.1.jar = 40ddb2d0c7692b0a38d5532484104b36
+lib/MaxLocalBackend-1.4.1.jar = 771238625891fed20d3ab4b32b27718e
