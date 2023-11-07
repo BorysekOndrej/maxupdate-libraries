@@ -17,7 +17,7 @@ If you host locally, you can for example write the following lines to `hosts` fi
 ```
 
 Some versions use other files, for example `links-914.xml`, `maxupdate/lib/MaxEssentialsBackend-1.3.7.jar`, `maxupdate/lib/MaxLocalBackend-1.3.7.jar`.
-I've not been able to source those, but I've found that if you just rename their newer counterparts, than it works.
+~~I've not been able to source those, but~~ I've found that if you just rename their newer counterparts than it works.
 
 
 I've also found relevant discussion from March 2020 in the comments on release of MaxBuddy, that suggests setting the `links-xxx.xml` file to read-only. [Link](https://stoffl.info/2019/02/20/maxbuddy-heizungssteuerung-download-files/)
